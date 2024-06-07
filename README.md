@@ -34,7 +34,7 @@ Cammy
 3. A terminal application (Terminal on Mac and Linux or Git Bash on Windows).
 
 ## Files
-1. chicago.csv
+1. chicago1.csv
 2. new_york_city.csv
 3. washington.csv
 
